@@ -22,6 +22,7 @@
                                 <gestureRecognizers/>
                                 <connections>
                                     <outletCollection property="gestureRecognizers" destination="vWI-wc-mcL" appends="YES" id="28s-GL-D1D"/>
+                                    <outletCollection property="gestureRecognizers" destination="XKy-7E-VnB" appends="YES" id="zuH-xA-Eox"/>
                                 </connections>
                             </view>
                         </subviews>
@@ -37,6 +38,11 @@
                         <action selector="swipe:" destination="vXZ-lx-hvc" id="TiE-k5-iVX"/>
                     </connections>
                 </swipeGestureRecognizer>
+                <tapGestureRecognizer id="XKy-7E-VnB">
+                    <connections>
+                        <action selector="tab:" destination="vXZ-lx-hvc" id="1bE-Fg-Nkx"/>
+                    </connections>
+                </tapGestureRecognizer>
             </objects>
         </scene>
     </scenes>
