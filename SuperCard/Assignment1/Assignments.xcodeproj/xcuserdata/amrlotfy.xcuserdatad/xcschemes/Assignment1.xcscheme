@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "07BC6AA21B6DFB7E0073796E"
-               BuildableName = "SuperCard.app"
-               BlueprintName = "SuperCard"
-               ReferencedContainer = "container:SuperCard.xcodeproj">
+               BlueprintIdentifier = "07704B8A1AE924D20045D9BA"
+               BuildableName = "Assignments.app"
+               BlueprintName = "Assignments"
+               ReferencedContainer = "container:Assignments.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "07BC6ABB1B6DFB7F0073796E"
-               BuildableName = "SuperCardTests.xctest"
-               BlueprintName = "SuperCardTests"
-               ReferencedContainer = "container:SuperCard.xcodeproj">
+               BlueprintIdentifier = "07704BA31AE924D20045D9BA"
+               BuildableName = "AssignmentsTests.xctest"
+               BlueprintName = "AssignmentsTests"
+               ReferencedContainer = "container:Assignments.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "07BC6ABB1B6DFB7F0073796E"
-               BuildableName = "SuperCardTests.xctest"
-               BlueprintName = "SuperCardTests"
-               ReferencedContainer = "container:SuperCard.xcodeproj">
+               BlueprintIdentifier = "07704BA31AE924D20045D9BA"
+               BuildableName = "AssignmentsTests.xctest"
+               BlueprintName = "AssignmentsTests"
+               ReferencedContainer = "container:Assignments.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "07BC6AA21B6DFB7E0073796E"
-            BuildableName = "SuperCard.app"
-            BlueprintName = "SuperCard"
-            ReferencedContainer = "container:SuperCard.xcodeproj">
+            BlueprintIdentifier = "07704B8A1AE924D20045D9BA"
+            BuildableName = "Assignments.app"
+            BlueprintName = "Assignments"
+            ReferencedContainer = "container:Assignments.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "07BC6AA21B6DFB7E0073796E"
-            BuildableName = "SuperCard.app"
-            BlueprintName = "SuperCard"
-            ReferencedContainer = "container:SuperCard.xcodeproj">
+            BlueprintIdentifier = "07704B8A1AE924D20045D9BA"
+            BuildableName = "Assignments.app"
+            BlueprintName = "Assignments"
+            ReferencedContainer = "container:Assignments.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "07BC6AA21B6DFB7E0073796E"
-            BuildableName = "SuperCard.app"
-            BlueprintName = "SuperCard"
-            ReferencedContainer = "container:SuperCard.xcodeproj">
+            BlueprintIdentifier = "07704B8A1AE924D20045D9BA"
+            BuildableName = "Assignments.app"
+            BlueprintName = "Assignments"
+            ReferencedContainer = "container:Assignments.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
